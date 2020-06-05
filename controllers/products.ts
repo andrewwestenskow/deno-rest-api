@@ -4,20 +4,20 @@ import { v4 } from 'https://deno.land/std/uuid/mod.ts'
 let products: Product[] = [
   {
     id: '1',
-    name: 'Barf Bag',
-    description: 'The barfiest',
+    name: 'Red Bag',
+    description: 'The most red',
     price: 29.99,
   },
   {
     id: '2',
-    name: 'Fart Bag',
-    description: 'The fartiest',
+    name: 'Blue Bag',
+    description: 'The bluest',
     price: 44.89,
   },
   {
     id: '3',
-    name: 'Blood Bag',
-    description: 'The bloodiest',
+    name: 'Green Bag',
+    description: 'The greenest',
     price: 299.99,
   },
 ]
